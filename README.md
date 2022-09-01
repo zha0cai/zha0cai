@@ -1,21 +1,29 @@
+<h2 align="center">Hi 👋! My name is zha0cai. Strive to be a Qualified Penetrator...</h2>
+
+###
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Zha0cai's Github Start&username=zha" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=zha" height="150" alt="languages graph"  />
+</div>
 
-<a href="https://github.com/zha0cai"><img src="https://github.githubassets.com/images/mona-whisper.gif" width="22px"></a> Hi whoever ~
+###
 
-<a href="https://github.com/zha0cai"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=21&pause=1000&color=AC4BF3&width=435&lines=Strive+to+be+a+Qualified+Penetrator..."><a>
+<img align="right" height="150" src="https://github.githubassets.com/images/mona-whisper.gif"  />
 
-[![Zha0cai's github activity graph](https://activity-graph.herokuapp.com/graph?username=zha0cai&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+###
 
-[![](https://activity-graph.herokuapp.com/graph?username=zha0cai&bg_color=black&color=23affc&line=23affc)](https://github.com/zha0cai)
-  
-[![snake](./assets/github-contribution-grid-snake.svg)](https://github.com/zha0cai)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" width="42" alt="pycharm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+</div>
 
-### Zha0cai's github stats 😁
+###
 
-[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=zha0cai&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn)](https://github.com/zha0cai)
+<br clear="both">
 
-[![zha0cai's github stats](https://github-readme-stats.vercel.app/api?username=zha0cai&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn)](https://github.com/zha0cai)
+<img href="https://raw.githubusercontent.com/zha/zha/blob/output/snake.svg" alt="Snake animation" />
 
-### Zha0cai's Hot Repo ✨
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zha0cai&repo=cf&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn&line_height=20)](https://github.com/zha0cai)
+###
