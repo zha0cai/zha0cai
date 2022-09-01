@@ -21,4 +21,4 @@
 
 ### Zha0cai's Hot Repo ✨
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zha0cai&repo=cf&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn&line_height=20)](https://github.com/zha0cai)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zha0cai&repo=zha0cai&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn&line_height=20)](https://github.com/zha0cai)
