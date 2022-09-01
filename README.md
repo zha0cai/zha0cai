@@ -1,12 +1,12 @@
 <div align="center">
 
-<! -- 猫猫动图 -->
+<!-- 猫猫动图 -->
 <img align="right" height="150" src="https://github.githubassets.com/images/mona-whisper.gif"/> Hi whoever ~
 
-<! -- 动态文字 -->
+<!-- 动态文字 -->
 <a href="https://github.com/zha0cai"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=21&pause=1000&color=AC4BF3&width=435&lines=Strive+to+be+a+Qualified+Penetrator..."><a>
 
-<! -- 工作流生成的统计图 -->
+<!-- 工作流生成的统计图 -->
 [![github-active](./profile-3d-contrib/profile-night-view.svg)](https://github.com/zha0cai)
 
 [![](https://activity-graph.herokuapp.com/graph?username=zha0cai&bg_color=black&color=23affc&line=23affc)](https://github.com/zha0cai)
