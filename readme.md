@@ -7,7 +7,7 @@
 
 ###
 
-<img align="center" height="150" src="https://github.githubassets.com/images/mona-whisper.gif"  />
+<img align="center" height="150" src="./assets/zhaocai.gif"  />
 
 ###
 
