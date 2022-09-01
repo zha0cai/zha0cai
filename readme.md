@@ -3,7 +3,7 @@
 ###
 
   [![zha0cai's github stats](https://github-readme-stats.vercel.app/api?username=zha0cai&hide_title=false&hide=c&hide_border=true&layout=compact&theme=dracula&locale=en#width-full)](https://github.com/zha0cai)
-  [![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=zha0cai&hide_title=false&hide=c&hide_border=true&layout=compact&theme=dracula&locale=cn)](https://github.com/zha0cai)
+  [![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=zha0cai&hide_title=false&hide=c&hide_border=true&layout=compact&theme=dracula&locale=en)](https://github.com/zha0cai)
 
 ###
 
