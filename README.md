@@ -4,7 +4,9 @@
 
 <a href="https://github.com/zha0cai"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=21&pause=1000&color=AC4BF3&width=435&lines=Strive+to+be+a+Qualified+Penetrator..."><a>
 
-[![Zha0cai's github activity graph](https://activity-graph.herokuapp.com/graph?username=zha0cai&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![github-active](./profile-3d-contrib/profile-night-view.svg)](https://github.com/zha0cai)
+
+[![](https://activity-graph.herokuapp.com/graph?username=zha0cai&bg_color=black&color=23affc&line=23affc)](https://github.com/zha0cai)
   
 [![snake](./assets/github-contribution-grid-snake.svg)](https://github.com/zha0cai)
 
